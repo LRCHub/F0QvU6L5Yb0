@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "a light of mine",
+  "base_artist": "Kudasaibeats",
+  "createdAt": "2026-03-18T05:12:45.350103Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "This Little Light of Mine",
+      "artist": "Aretha Franklin",
+      "has_synced": false,
+      "path": "select/01_This_Little_Light_of_Mine_Aretha_Franklin.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "This Little Light of Mine",
+      "artist": "Elizabeth Mitchell",
+      "has_synced": true,
+      "path": "select/02_This_Little_Light_of_Mine_Elizabeth_Mitchell.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "This Little Light Of Mine (Live)",
+      "artist": "Aretha Franklin",
+      "has_synced": false,
+      "path": "select/03_This_Little_Light_Of_Mine_(Live)_Aretha_Franklin.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "This Little Light of Mine",
+      "artist": "Cedarmont Kids",
+      "has_synced": false,
+      "path": "select/04_This_Little_Light_of_Mine_Cedarmont_Kids.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "This Loving Light Of Mine",
+      "artist": "Van Morrison",
+      "has_synced": false,
+      "path": "select/05_This_Loving_Light_Of_Mine_Van_Morrison.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "This Little Light of Mine",
+      "artist": "Rend Collective",
+      "has_synced": true,
+      "path": "select/06_This_Little_Light_of_Mine_Rend_Collective.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "This Little Light Of Mine",
+      "artist": "Raffi",
+      "has_synced": true,
+      "path": "select/07_This_Little_Light_Of_Mine_Raffi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "This Little Light Of Mine (He Will Shine)",
+      "artist": "Selah",
+      "has_synced": true,
+      "path": "select/08_This_Little_Light_Of_Mine_(He_Will_Shine)_Selah.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "This Little Light Of Mine (feat. Alex Newell)",
+      "artist": "Cast of Zoey’s Extraordinary Playlist feat. Alex Newell",
+      "has_synced": true,
+      "path": "select/09_This_Little_Light_Of_Mine_(feat._Alex_Newell)_Cast_of_Zoey’s_Extraordinary_Playlist_feat._Alex_Newell.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "This Little Light of Mine",
+      "artist": "Alex Newell",
+      "has_synced": true,
+      "path": "select/10_This_Little_Light_of_Mine_Alex_Newell.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "This Little Light of Mine",
+      "artist": "The Dead South",
+      "has_synced": true,
+      "path": "select/11_This_Little_Light_of_Mine_The_Dead_South.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "This Little Light of Mine",
+      "artist": "Acappella",
+      "has_synced": false,
+      "path": "select/12_This_Little_Light_of_Mine_Acappella.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "This Little Light of Mine",
+      "artist": "Firewater",
+      "has_synced": true,
+      "path": "select/13_This_Little_Light_of_Mine_Firewater.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Amen / This Little Light of Mine",
+      "artist": "Etta James",
+      "has_synced": true,
+      "path": "select/14_Amen___This_Little_Light_of_Mine_Etta_James.lrc"
+    }
+  ]
+}
